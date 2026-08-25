@@ -1,0 +1,2 @@
+# JAVASCRIPT-Fourteenth-Assignment
+new repo My JAVASCRIPT 14th Assingnment-CODE A SMARTER WAY TO LEARN JAVASCRIPT BOOK
